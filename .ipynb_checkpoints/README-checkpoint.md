@@ -1,2 +1,0 @@
-## Char RNN Language Model
-
